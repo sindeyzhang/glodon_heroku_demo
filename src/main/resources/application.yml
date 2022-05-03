@@ -1,0 +1,6 @@
+spring:
+    application:
+      name: heroku-demo
+
+server:
+  port: 18888
